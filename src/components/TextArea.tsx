@@ -1,8 +1,10 @@
 import React from "react";
 
+
 export const TextArea = () => {
+ 
   return (
-    <div className="mt-12 p-4 bg-gray-200 min-h-full h-72">
+    <div className="mt-12 p-4 bg-gray-200 md:h-96 h-72">
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor est quos
       modi atque mollitia officiis laudantium ipsam a sit nemo provident tempora
       labore impedit asperiores eveniet, pariatur nam praesentium nisi earum,
